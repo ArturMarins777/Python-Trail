@@ -29,9 +29,11 @@ Whether you're starting your own Python journey or simply curious, I hope this r
 
 Here's how the repository is organized:
 
-📁 Python-Trail/ ├── 📄 README.md # About this project ├── 📂 Basics/ # Fundamental concepts in Python ├── 📂 Mini-Projects/ # Fun coding projects to practice ├── 📂 Notes/ # My learning notes and reflections ├── 📂 Resources/ # Tutorials, books, and useful links
+📁 Python-Trail/ ├── 📄 README.md # About this project ├── 📂 Basics/ # Fundamental concepts in Python ├── 📂 Projects/ # Fun coding projects to practice ├── 📂 Notes/ # My learning notes and reflections
+├── 📂 Resources/ # Tutorials, books, and useful links
+<u>📁 Books(BR)/</u>
+   - Automatize tarefas maçantes com python
 
----
 
 ## 🚀 How to Use This Repo
 
