@@ -2,6 +2,7 @@
 
 ## Tutorials
 - [Python Official Documentation](https://docs.python.org/3/)
+- [Interactive Python Tutorial] (https://www.learnpython.org/)
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 
 ## Books
