@@ -13,3 +13,6 @@
 - [PyCharm IDE](https://www.jetbrains.com/pycharm/)
 
 Keep adding to this list as I discover more great resources!
+
+## My Notion ptyhon studies
+https://www.notion.so/Curso-intensivo-de-Python-1a6674f885e8801cbca7ccbd3c12cdf8?source=copy_link
